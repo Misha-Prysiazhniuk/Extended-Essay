@@ -5,7 +5,8 @@ Which topic areas, themes, or periods within this subject intrigue you?
 -Coding(Python), Data Management, Artificial intelligence(AI), Machine Learning(ML)
 
 Provide a context for your investigation and essay (Explain what you would investigate, including relevant time period, place, author, or concept)
--I am really interested in a topic about AI security, as I've seen that it is possible to overcome the rules and policy of them. So I want to investigate on different prompt injection (jailbreaking) techniques for AI and discuss the theoretical solutions to secure the AI safety.
+-My main idea is to investigate on the prompt injections on LLM systems - techniques to overcome rules and policy. I will use a Mistral 7B LLM,
+find out why do these injections work, analyzing the results and success rate of the injections and analyzing the possible methods to improve AI security.
 
 Why is this investigation worth doing?
 (Explain what makes it significant, original, or valuable — what new insight might it add?)
