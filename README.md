@@ -1,2 +1,2 @@
 # Extended-Essay
-My computer science extended essay - AI jailbreaking
+My computer science extended essay - LLM jailbreaking
