@@ -1,1 +1,25 @@
+Which IB subject does this idea belong to?
+Computer Science
+
+Which topic areas, themes, or periods within this subject intrigue you?
+-Coding(Python), Data Management, Artificial intelligence(AI), Machine Learning(ML)
+
+Provide a context for your investigation and essay (Explain what you would investigate, including relevant time period, place, author, or concept)
+-I am really interested in a topic about AI security, as I've seen that it is possible to overcome the rules and policy of them. So I want to investigate on different prompt injection (jailbreaking) techniques for AI and discuss the theoretical solutions to secure the AI safety.
+
+Why is this investigation worth doing?
+(Explain what makes it significant, original, or valuable — what new insight might it add?)
+-As AI is a widely used and significantly important for many fields by itself nowadays, it requires a strong policy and security, as it is a huge data keeper, as well as a powerful tool, so it can be dangerous and cause a considerable damage when used inappropriately - so this work will analyse the possible risk, help understand how they actually work in terms of the AI algorithms and suggest feasible improvements to overcome such risks.
+
+List one or more sources (material, information, or data) that could support this investigation.
+(Include links, citations, or brief descriptions.)
+-Universal and Transferable Adversarial Attacks on Aligned Language Models( https://arxiv.org/abs/2307.15043  https://arxiv.org/pdf/2307.15043 ), Strategic Alignment Documentation( https://www.researchgate.net/publication/221430737_Strategic_Alignment_Documentation), Prompt Injection Detection( https://openai.github.io/openai-guardrails-python/ref/checks/prompt_injection_detection/#results https://www.salesforce.com/blog/prompt-injection-detection/ ) etc.
+
+Summarize what these sources suggest so far and how they might shape your research question.
+-These sources not only give me an accurate explanation of the topic and the methods specifically, but also contain several clear examples of the attack prompts and defensive code. They will build a theoretical part for understanding and be a foundation to implement the experiment.
+
+
+Draft a possible research question.
+(Even if provisional.)
+-To which extent can the two distinct prompt injection techniques(e.g the 'Roleplay Persona' and the 'Base64 Obfuscation') overcome the safety policy of the Specific Open-Source LLM, e.g., Mistral 7B via a Python framework, and what do the results imply for the design of effective output-level defense mechanisms?
 
