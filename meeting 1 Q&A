@@ -30,5 +30,7 @@ Criterion E: Engagement (6 marks): Assesses the student's reflection on their re
 
 5. Share possible approaches and any potential problem that might rise.
 
+- Hold a digital experiment using the LLM and different jailbreaking methods; download the local LLM.
 - create visualizations on python analysing to which extent do different jailbreaking systems "break" the policy.
-- 
+- I should write a program that will analyse the jailbreaking quality and create the visualizations.
+- The problem is, I cannot put any unethical information into my extended essay;meanwhile jailbreaking requires a prompt that breaks the policy of the LLM
