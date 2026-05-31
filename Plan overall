@@ -13,3 +13,9 @@ Essay - Intro, describe
 Analysis of results
 Improvements
 Conclusion
+"My intended structure is: introduction + information and definitions;
+explanations about the key terms by using the sources; predictions about the results based on Mistral information; the experiment - 
+explanation of how it was held(a python script, the process, the results visualization). After that I would explain what do these results 
+suggest and how could we make a better protection system for the LLM. Finally, I would add all the necessary details, such as conclusion, 
+references. I would ensure that I add references to all information from external sources. I will also write all the code from scratch and 
+apply the techniques by myself, using only downloaded LLM."
