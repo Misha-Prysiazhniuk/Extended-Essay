@@ -1,0 +1,46 @@
+Extended essay proposal:
+
+1. Working Title
+An experimental research and analysis on how effectively do different jailbreaking techniques, the 'Roleplay Persona' and the
+'Base64 Obfuscation’, break the policy of LLM, such as Mistral 7B.
+
+2. Research Question (Finalized)
+To which extent can the two distinct prompt injection techniques, the 'Roleplay Persona' and the 'Base64 Obfuscation’, 
+overcome the safety policy of the Mistral 7B LLM, via a Python framework, and what do the results imply for the design of 
+effective AI defense mechanisms?
+
+3. Rationale
+Computer science is the subject I am fond of - I want to study it in the university and connect it with my future, 
+as I am thinking of professions of a software or AI developer, or others connected to coding. The problem of AI jailbreaking is 
+inspirational for me, as it combines coding, which is my strengh and area of interest, AI, which is the main center of attention in 
+the modern world and takes more and more work from human, and security, which requires decent upgrades with release of new technologies. 
+This question is powerful because it allows to hold an experiment, analyse and compare different techniques, and suggest solutions or 
+improvements to the LLMs, meanwhile the question about the security of AI is significant as online safety is a developing area, in which 
+AI has several policy leakaes that can lead to unpleasant and harmful consequences for a person or society, as it can be used for creating 
+biases or getting secret/confidential information. It will give me a knowledge about Learning Language Models, how to work with them and how 
+to test them; an opportunity to apply my programming abilities to a real project; shape my understanding of the modern technologies. 
+
+4. Initial Research & Sources
+Mistral 7B documentation - https://docs.mistral.ai/
+OpenAI about prompt injection - https://openai.com/index/prompt-injections/
+Prompt injection detection - https://openai.github.io/openai-guardrails-python/ref/checks/prompt_injection_detection
+/#results https://www.salesforce.com/blog/prompt-injection-detection/
+Additional information about jailbreaking techniques - https://arxiv.org/pdf/2507.21820
+The main documentation on Base64 obfuscation with overall information about different attacks - https://www.promptfoo.dev/docs/red-team/
+Roleplay person method information - https://meetcyber.net/when-role-play-goes-rogue-prompt-injection-bypasses-in-llms-ca22913e06f0
+
+5. Methodology / Approach
+I am intending to hold a digital experiment. The core methodology involves a Python-based red-teaming framework that will execute and
+record the outcomes of Base 64 obfuscation  and Roleplay persona attacks. My intended structure is: introduction + information and definitions;
+explanations about the key terms by using the sources; predictions about the results based on Mistral information; the experiment - 
+explanation of how it was held(a python script, the process, the results visualization). After that I would explain what do these results 
+suggest and how could we make a better protection system for the LLM. Finally, I would add all the necessary details, such as conclusion, 
+references. I would ensure that I add references to all information from external sources. I will also write all the code from scratch and 
+apply the techniques by myself, using only downloaded LLM.
+
+6. Anticipated Challenges
+One of the problems is that I cannot put any unethical information into the Extended Essay; meanwhile jailbreaking requires 
+a prompt that breaks the policy of the LLM. So I have to use prompts that I cannot show or find a specific prompt that is against 
+Mistral policy but acceptable, or find any other ways.
+There might be difficulties with downloading the software. However, they should be manageable. One of the problems is that AI is still
+developing and there might not be much information about such topic as injections; however, I want to base the essay on my experiment
